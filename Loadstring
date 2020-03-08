@@ -4,4 +4,4 @@ MrTrustLumber Hub
 Please Give Credits If Used In A Video.
 Supported Games> https://pastebin.com/raw/ZUR4xRJ1
 ]]
-https://raw.githubusercontent.com/MrTrustLumber/MTL-Hub/master/MTL%20HUB
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrTrustLumber/MTL-Hub/master/MTL%20HUB"))()
